@@ -15,8 +15,7 @@ A responsive login validation form built using HTML, CSS, and JavaScript.
 - JavaScript (Vanilla JS)
 - Regex
 
-## 📸 Preview
-(Add a screenshot here later)
+
 
 ## 🚀 Future Improvements
 - Add backend authentication
