@@ -28,7 +28,7 @@
 
 ## 📸 UI Preview
 
-![Email Password Validator Preview](./screenshots/email-password-validator-preview.png)
+![Email Password Validator Preview](./screenshot/email-password-validator-preview.png)
 
 ---
 
@@ -65,9 +65,12 @@ email-password-validator/
 
 ```bash
 git clone https://github.com/your-username/email-password-validator.git
+```
 
-2.Navigate into the project:
+2. Navigate into the project:
 
+```base
 cd email-password-validator
+```
 
-3.Open index.html in your browser.
+3. Open index.html in your browser.
