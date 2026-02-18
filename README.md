@@ -1,23 +1,73 @@
-# Email & Password Validator 🔐
+# 🔐 Email & Password Validator
 
-A responsive login validation form built using HTML, CSS, and JavaScript.
+## 🚀 Features
 
-## ✨ Features
-- Real-time email validation using regex
-- Strong password validation (8+ chars, uppercase, lowercase, digit)
-- Password show/hide toggle
-- Clean responsive UI
-- Form validation without page reload
+- 📧 Email validation using Regex
+- 🔑 Password validation with:
+  - Minimum 8 characters
+  - At least one uppercase letter
+  - At least one lowercase letter
+  - At least one number
+- 👁️ Toggle password visibility
+- ⚡ Real-time validation feedback
+- 🎨 Clean dark UI design
+- 📱 Responsive layout (Mobile friendly)
 
-## 🛠️ Technologies Used
+---
+
+## 🛠 Tech Stack
+
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
-- Regex
+- JavaScript (ES6)
+- Regex (Regular Expressions)
+- Google Fonts
+- Remix Icons
+
+---
+
+## 📸 UI Preview
+
+![Email Password Validator Preview](./screenshots/email-password-validator-preview.png)
+
+---
+
+## 🧠 Learning Concepts Practiced
+
+- DOM Manipulation
+- Event Handling
+- Form Validation
+- Regex Patterns
+- Conditional Rendering
+- Real-time Input Validation
+- Preventing Default Form Submission
+- Toggle Input Type (Password Show/Hide)
+
+---
+
+## 📂 Project Structure
+
+email-password-validator/
+│
+├── index.html
+├── style.css
+├── script.js
+├── screenshots/
+│ └── email-password-validator-preview.png
+└── README.md
 
 
+---
 
-## 🚀 Future Improvements
-- Add backend authentication
-- Add animations
-- Convert to React version
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/email-password-validator.git
+
+2.Navigate into the project:
+
+cd email-password-validator
+
+3.Open index.html in your browser.
